@@ -1,1 +1,1 @@
-# React
+![Project Banner](assets/healthcare.png)
